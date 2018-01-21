@@ -1,0 +1,25 @@
+{
+  "name": "Imooc_movie",
+  "description": "Imooc movie",
+  "main": "",
+  "authors": [
+    "kjian0801 <kongjian0801@163.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "description": "imoov movie",
+  "main": "app.js",
+  "dependencies": {
+    "connect-mongo": "^2.0.1",
+    "connect-multiparty": "^2.1.0",
+    "express": "^4.16.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-mocha-test": "^0.13.3",
+    "jade": "^1.11.0",
+    "mocha": "^4.1.0",
+    "moment": "^2.20.1",
+    "mongoose": "^5.0.0-rc0",
+    "morgan": "^1.9.0",
+    "serve-static": "^1.13.1",
+    "should": "^13.2.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "cookie-parser": "^1.4.3",
+    "express-session": "^1.15.6",
+    "grunt": "^1.0.1",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "author": "",
+  "license": "ISC"
+}
